@@ -3,9 +3,9 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 
 const NavigationBar = () => {
     return (
-        <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary shadow-sm">
+        <Navbar sticky="top" collapseOnSelect expand="lg" className="bg-body-tertiary shadow-sm">
             <Container>
-                <Navbar.Brand className='text-primary fw-bold' href="#home">Incubyte</Navbar.Brand>
+                <Navbar.Brand className='text-primary fs-2 fw-bold' href="#home">Incubyte</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="ms-auto">

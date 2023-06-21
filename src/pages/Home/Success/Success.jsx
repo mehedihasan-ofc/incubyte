@@ -7,10 +7,10 @@ const Success = () => {
         <div className='bg-primary-subtle position-relative p-5'>
 
             <Container>
-                <div>
+                <div id='stories'>
                     <div className='text-center'>
                         <h2 className='fw-bold'>Success Stories</h2>
-                        <p className='mt-3'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni fugiat odit corporis eaque dolorum illum quaerat maiores illo aliquid, quasi porro dolores veniam explicabo beatae quos necessitatibus. Amet non culpa reiciendis nulla, eos dolorum cupiditate molestiae explicabo nesciunt possimus, quas, consequatur necessitatibus animi illum facilis! Eaque quasi numquam velit consequatur.</p>
+                        <p className='mt-3'>Saving Millions and Building Trust: The Power of Regulatory Guidance" - This success story outlines how a company utilized regulatory guidance to identify and rectify potential compliance issues. By proactively addressing regulatory requirements, they not only saved significant costs but also strengthened their reputation, resulting in increased customer loyalty and industry recognition.</p>
                     </div>
                 </div>
             </Container>
